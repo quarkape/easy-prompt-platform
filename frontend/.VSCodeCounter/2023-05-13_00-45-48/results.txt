@@ -1,0 +1,57 @@
+Date : 2023-05-13 00:45:48
+Directory : g:\Projects\easy-prompt\frontend\src
+Total : 20 files,  4001 codes, 373 comments, 102 blanks, all 4476 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |         11 |      3,472 |        314 |         52 |      3,838 |
+| JavaScript |          7 |        450 |         53 |         47 |        550 |
+| CSS        |          2 |         79 |          6 |          3 |         88 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                       |         20 |      4,001 |        373 |        102 |      4,476 |
+| . (Files)                                                               |          2 |         39 |         17 |         12 |         68 |
+| api                                                                     |          1 |         81 |         23 |         25 |        129 |
+| assets                                                                  |          2 |         79 |          6 |          3 |         88 |
+| components                                                              |         10 |      3,452 |        314 |         48 |      3,814 |
+| components (Files)                                                      |          1 |        272 |          6 |          4 |        282 |
+| components\func                                                         |          1 |        394 |         24 |          2 |        420 |
+| components\login                                                        |          2 |        392 |         21 |          7 |        420 |
+| components\patterns                                                     |          5 |      2,367 |        263 |         32 |      2,662 |
+| components\profile                                                      |          1 |         27 |          0 |          3 |         30 |
+| router                                                                  |          1 |         57 |          0 |          3 |         60 |
+| utils                                                                   |          4 |        293 |         13 |         11 |        317 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| g:\Projects\easy-prompt\frontend\src\App.vue                            | Vue        |         20 |          0 |          4 |         24 |
+| g:\Projects\easy-prompt\frontend\src\api\api.js                         | JavaScript |         81 |         23 |         25 |        129 |
+| g:\Projects\easy-prompt\frontend\src\assets\custom.css                  | CSS        |         30 |          1 |          2 |         33 |
+| g:\Projects\easy-prompt\frontend\src\assets\reset.css                   | CSS        |         49 |          5 |          1 |         55 |
+| g:\Projects\easy-prompt\frontend\src\components\func\chat.vue           | Vue        |        394 |         24 |          2 |        420 |
+| g:\Projects\easy-prompt\frontend\src\components\home.vue                | Vue        |        272 |          6 |          4 |        282 |
+| g:\Projects\easy-prompt\frontend\src\components\login\checkDevice.vue   | Vue        |         53 |          2 |          2 |         57 |
+| g:\Projects\easy-prompt\frontend\src\components\login\login.vue         | Vue        |        339 |         19 |          5 |        363 |
+| g:\Projects\easy-prompt\frontend\src\components\patterns\design.vue     | Vue        |        979 |        103 |         17 |      1,099 |
+| g:\Projects\easy-prompt\frontend\src\components\patterns\index.vue      | Vue        |        104 |          1 |          2 |        107 |
+| g:\Projects\easy-prompt\frontend\src\components\patterns\mine.vue       | Vue        |        187 |         15 |          2 |        204 |
+| g:\Projects\easy-prompt\frontend\src\components\patterns\process.vue    | Vue        |        927 |        129 |          9 |      1,065 |
+| g:\Projects\easy-prompt\frontend\src\components\patterns\repository.vue | Vue        |        170 |         15 |          2 |        187 |
+| g:\Projects\easy-prompt\frontend\src\components\profile\me.vue          | Vue        |         27 |          0 |          3 |         30 |
+| g:\Projects\easy-prompt\frontend\src\main.js                            | JavaScript |         19 |         17 |          8 |         44 |
+| g:\Projects\easy-prompt\frontend\src\router\index.js                    | JavaScript |         57 |          0 |          3 |         60 |
+| g:\Projects\easy-prompt\frontend\src\utils\axiosUtil.js                 | JavaScript |         75 |         13 |          8 |         96 |
+| g:\Projects\easy-prompt\frontend\src\utils\pattern.js                   | JavaScript |        175 |          0 |          0 |        175 |
+| g:\Projects\easy-prompt\frontend\src\utils\tokenUtil.js                 | JavaScript |          9 |          0 |          2 |         11 |
+| g:\Projects\easy-prompt\frontend\src\utils\toolsUtil.js                 | JavaScript |         34 |          0 |          1 |         35 |
+| Total                                                                   |            |      4,001 |        373 |        102 |      4,476 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+

@@ -1,0 +1,36 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 60MB
+      enabled: true
+  datasource:
+    username: edu4sight
+    password: wh98-edu4sight
+    url: jdbc:mysql://127.0.0.1:3324/edu4sight?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # 使用druid数据源
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    dbcp2:
+#      test-while-idle: true
+#      test-on-borrow: true
+#      test-on-return: false
+#      validation-query: SELECT 1
+#      max-wait-millis: 60000
+  redis:
+    port: 6313
+    password: redis
+    host: 127.0.0.1
+    lettuce:
+      pool:
+        max-active: 8
+        max-idle: 10
+        min-idle: 6
+        max-wait: 10000
+
+#logging:
+
+server:
+  port: 8002
+  servlet:
+    context-path: /api
