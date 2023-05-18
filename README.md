@@ -1,2 +1,10 @@
-# prompt_generater
-一个用于定制、生成、分享提示的web工具
+# easy-prompt
+
+- 基于LM策略
+- 可设计、分享与使用提示模板
+
+
+
+## 在线体验：
+
+[Easy-Prompt: https://ep.whom.fun](https://ep.whom.fun)
